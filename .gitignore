@@ -1,0 +1,6 @@
+*.xcworkspace
+*xcuserdata/
+*~
+.DS_Store
+OldDatabases
+misc_old_files
